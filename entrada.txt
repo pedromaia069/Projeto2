@@ -1,0 +1,6 @@
+dim 60 30
+brush @
+line  5 5 30 59
+rectangle 15 8 10 5
+circle 22 20 5 1
+circle 10 30 5 0
